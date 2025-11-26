@@ -1,0 +1,9 @@
+surf git repo
+
+orig homepage: https://surf.sourceforge.net/
+
+trying revive some parts of something I once contributed to ...
+
+- 2025-11-26: imported from svn from sourceforge using
+  git svn clone --stdlayout --no-metadata --authors-file=users.txt svn://svn.code.sf.net/p/surf/code surf-git
+
